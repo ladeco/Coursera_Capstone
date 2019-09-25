@@ -1,0 +1,14 @@
+Peer-graded Assignment: Capstone Project - The Battle of Neighborhoods (Week 1)
+Manoel Lino Costa Neto
+
+Analysing the best location to Open a Self Service restaurant in São Paulo.
+
+Introduction
+São Paulo is the largest city in Brazil, it is also where most of the important businesses happens in Brazil.
+It is a tradition in Brazil that Self Services restaurants that charges the meal by the weight of the plate served.
+This kind of business has the objective to attend mostly people from offices and in commercial centers.
+
+Business Problem
+Based on the facts shown above, Kelly is willing to open a Self Service by kilo restaurant in São Paulo.
+As São Paulo is a very large city and there are many risks while opening a business we will give her information to help decide the best location to open the restaurant.
+The most important neighborhood we are trying to find is a place with many offices and commercial centers nearby and with not many competitors.

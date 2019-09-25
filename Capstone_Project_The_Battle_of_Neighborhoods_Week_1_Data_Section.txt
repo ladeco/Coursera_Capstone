@@ -1,0 +1,21 @@
+Peer-graded Assignment: Capstone Project - The Battle of Neighborhoods (Week 1)
+Manoel Lino Costa Neto
+
+Analysing the best location to Open a Self Service restaurant in São Paulo.
+
+Data Description
+
+To analyze São Paulo potential places to open a Self Service restaurant I will use the following data:
+
+1 - Wikipedia page with the São Paulo localities: https://en.wikipedia.org/wiki/S%C3%A3o_Paulo
+
+2 - The latitude, longitude of São Paulo Localities using Open Street Map APIs: https://nominatim.openstreetmap.org/
+
+3 - From Foursquare it will be used the API: https://api.foursquare.com to search for the following venues data for São Paulo Localities:
+	- Self Service restaurants
+	- Offices 
+	- Commercial Centers
+	- Schools
+	- Universities
+
+With all the above data in place then it will be given a weight for every group and then determine which are the best locations to open a Self Service restaurant.
